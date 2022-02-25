@@ -1,0 +1,15 @@
+{
+  "name": "eslint-eslintignore-glob-pattern-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint '**/*.js' --ignore-path .eslintignore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.9.0"
+  }
+}
